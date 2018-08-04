@@ -1,6 +1,7 @@
 # Brainfuck
 
 A podcast about tech and mental heath.
+https://brainfuck.now.sh
 
 Hosted by
 
