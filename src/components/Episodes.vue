@@ -1,7 +1,7 @@
 <template>
   <div>
     <h1>Episodes</h1>
-    <iframe src="https://anchor.fm/brainfuck/embed" height="150px" width="600px" frameborder="0" scrolling="no"></iframe>
+    <iframe src="https://anchor.fm/brainfuck/embed" class="episode" frameborder="0" scrolling="no"></iframe>
     <Hosts />
   </div>
 </template>
@@ -15,3 +15,11 @@ export default {
   name: 'Episodes'
 }
 </script>
+<style>
+ .episode {
+    height: 150px;
+    width: 770px;
+    max-width: 100%;
+ }
+
+</style>
