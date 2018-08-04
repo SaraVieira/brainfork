@@ -6,22 +6,22 @@
 </template>
 
 <script>
-import RSSParser from 'rss-parser';
-import Hosts from './Hosts';
+import RSSParser from 'rss-parser'
+import Hosts from './Hosts'
 export default {
   components: {
     Hosts
   },
   name: 'HelloWorld',
-  data() {
+  data () {
     return {
       episodes: []
     }
   },
-  mounted() {
-    let parser = new RSSParser();
+  mounted () {
+    let parser = new RSSParser()
     parser.parseURL('https://anchor.fm/s/576b8a8/podcast/rss', (_, feed) => {
-      this.episodes = feed.items;
+      this.episodes = feed.items
     })
   }
 }
