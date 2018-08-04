@@ -43,4 +43,12 @@ a {
   color: #07301e;
   text-decoration: none;
 }
+
+.styles__segment___2WEVX {
+  box-shadow: none;
+}
+
+.styles__anchorLogo___3V1bA .styles__anchorLogoDefault___137DJ {
+  display: none;
+}
 </style>
