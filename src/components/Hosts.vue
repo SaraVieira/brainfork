@@ -3,10 +3,10 @@
     <h3>Hosted by</h3>
     <ul class="hosts">
       <li>
-        <a href="https://twitter.com/A_Deduchovas" target="_blank"><img src="../assets/kJ5-Kwma_400x400.jpg" alt="Antonas Deduchovas" />Antonas</a>
+        <a href="https://twitter.com/A_Deduchovas" target="_blank"><img src="../assets/antonas.jpg" alt="Antonas Deduchovas" />Antonas</a>
       </li>
       <li>
-        <a href="https://twitter.com/NikkitaFTW" target="_blank"><img src="../assets/GRGg5x8v_400x400.jpg" alt="Sara Vieira" />Sara</a>
+        <a href="https://twitter.com/NikkitaFTW" target="_blank"><img src="../assets/sara.jpg" alt="Sara Vieira" />Sara</a>
       </li>
     </ul>
   </div>

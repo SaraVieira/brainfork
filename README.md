@@ -1,21 +1,32 @@
-# brainfuck
+# Brainfuck
+
+A podcast about tech and mental heath.
+
+Hosted by
+
+- [Antonas Deduchovas](https://twitter.com/A_Deduchovas)
+- [Sara Vieira](https://twitter.com/NikkitaFTW)
 
 ## Project setup
-```
+
+```sh
 yarn install
 ```
 
 ### Compiles and hot-reloads for development
-```
-yarn run serve
+
+```sh
+yarn dev
 ```
 
 ### Compiles and minifies for production
-```
-yarn run build
+
+```sh
+yarn build
 ```
 
 ### Lints and fixes files
-```
-yarn run lint
+
+```sh
+yarn lint
 ```
