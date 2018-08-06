@@ -24,7 +24,7 @@ html {
   min-height: 100%;
   padding: 0%;
   margin: 0;
-  background: #e2e253;
+  background: #ffff5f;
 }
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
