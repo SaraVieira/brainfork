@@ -1,7 +1,7 @@
 <template>
   <div>
     <h1>Episodes</h1>
-    <iframe src="https://anchor.fm/brainfuck/embed" class="episode" frameborder="0" scrolling="no"></iframe>
+    <iframe src="https://anchor.fm/brainfork/embed" class="episode" frameborder="0" scrolling="no"></iframe>
     <Hosts />
   </div>
 </template>

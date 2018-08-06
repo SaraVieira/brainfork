@@ -1,7 +1,7 @@
-# Brainfuck
+# Brainfork
 
 A podcast about tech and mental heath.
-https://brainfuck.now.sh
+https://brainfork.wtf
 
 Hosted by
 
